@@ -1,0 +1,14 @@
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter.Infrastructure.Data.Tests\bin\Debug\DishSorter.Infrastructure.Data.Tests.dll
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter.Infrastructure.Data.Tests\bin\Debug\DishSorter.Infrastructure.Data.Tests.pdb
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter.Infrastructure.Data.Tests\obj\Debug\DishSorter.Infrastructure.Data.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter.Infrastructure.Data.Tests\obj\Debug\DishSorter.Infrastructure.Data.Tests.dll
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter.Infrastructure.Data.Tests\obj\Debug\DishSorter.Infrastructure.Data.Tests.pdb
+C:\Users\root-wm7\Desktop\DishSorter\DishSorter.Infrastructure.Data.Tests\bin\Debug\DishSorter.Infrastructure.Data.Tests.dll
+C:\Users\root-wm7\Desktop\DishSorter\DishSorter.Infrastructure.Data.Tests\bin\Debug\DishSorter.Infrastructure.Data.Tests.pdb
+C:\Users\root-wm7\Desktop\DishSorter\DishSorter.Infrastructure.Data.Tests\obj\Debug\DishSorter.Infrastructure.Data.Tests.csprojResolveAssemblyReference.cache
+C:\Users\root-wm7\Desktop\DishSorter\DishSorter.Infrastructure.Data.Tests\obj\Debug\DishSorter.Infrastructure.Data.Tests.dll
+C:\Users\root-wm7\Desktop\DishSorter\DishSorter.Infrastructure.Data.Tests\obj\Debug\DishSorter.Infrastructure.Data.Tests.pdb
+C:\Users\root-wm7\Desktop\DishSorter\DishSorter.Infrastructure.Data.Tests\bin\Debug\DishSorter.Application.dll
+C:\Users\root-wm7\Desktop\DishSorter\DishSorter.Infrastructure.Data.Tests\bin\Debug\DishSorter.Infrastructure.Data.dll
+C:\Users\root-wm7\Desktop\DishSorter\DishSorter.Infrastructure.Data.Tests\bin\Debug\DishSorter.Application.pdb
+C:\Users\root-wm7\Desktop\DishSorter\DishSorter.Infrastructure.Data.Tests\bin\Debug\DishSorter.Infrastructure.Data.pdb

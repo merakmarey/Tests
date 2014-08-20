@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="5cef95c2-f8d5-41ad-92ce-ba518de2a5fb" name="root-wm7@WIN-JSR7U11UCRP 2014-08-18 00:41:06" runUser="WIN-JSR7U11UCRP\root-wm7" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="5b08f5db-3756-47fe-8e28-9b275d42320b">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="root-wm7_WIN-JSR7U11UCRP 2014-08-18 00_41_06" />
+    <Properties />
+  </TestSettings>
+  <Times creation="2014-08-18T00:41:06.1516172-07:00" queuing="2014-08-18T00:41:06.8796588-07:00" start="2014-08-18T00:41:06.9486627-07:00" finish="2014-08-18T00:41:07.4866935-07:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="9" executed="9" passed="9" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="SortDishes_WithNightAndValidSelection_ShouldReturnFoodItems" storage="dishsorter.application.tests.dll" id="57122d33-f925-f689-35b9-921d974cb2c6">
+      <Execution id="9b04d3de-7a0b-47db-8573-a28f92e3991b" />
+      <TestMethod codeBase="C:/Users/root-wm7/Desktop/DishSorter/DishSorter.Application.Tests/bin/Debug/DishSorter.Application.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DishSorter.Application.Tests.DishSorterTests, DishSorter.Application.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SortDishes_WithNightAndValidSelection_ShouldReturnFoodItems" />
+    </UnitTest>
+    <UnitTest name="SortDishes_WithMorningAndSomeInvalidSelection_ShouldReturnErrorForInvalidSelectionOtherwiseFoodItems" storage="dishsorter.application.tests.dll" id="ed96d5f6-7607-6e9d-004c-ec8afdf3feba">
+      <Execution id="69f407bd-13a9-4de9-8746-915b8abe3442" />
+      <TestMethod codeBase="C:/Users/root-wm7/Desktop/DishSorter/DishSorter.Application.Tests/bin/Debug/DishSorter.Application.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DishSorter.Application.Tests.DishSorterTests, DishSorter.Application.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SortDishes_WithMorningAndSomeInvalidSelection_ShouldReturnErrorForInvalidSelectionOtherwiseFoodItems" />
+    </UnitTest>
+    <UnitTest name="GetItem_WithMorningAndValidTypeOrderId_ShouldReturnTheItem" storage="dishsorter.application.tests.dll" id="01efa204-5458-1eab-8da8-e230f713b71c">
+      <Execution id="30e46236-1b4b-406a-af9d-d6bda46d2590" />
+      <TestMethod codeBase="C:/Users/root-wm7/Desktop/DishSorter/DishSorter.Application.Tests/bin/Debug/DishSorter.Application.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DishSorter.Application.Tests.MenuTests, DishSorter.Application.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetItem_WithMorningAndValidTypeOrderId_ShouldReturnTheItem" />
+    </UnitTest>
+    <UnitTest name="GetItem_WithMorningAndInvalidTypeOrderId_ShouldReturnNull" storage="dishsorter.application.tests.dll" id="f78e327c-bb50-fc39-f9f3-21d13d9c59bb">
+      <Execution id="081c8476-e51d-4075-ad1b-e91f7c1f0c2a" />
+      <TestMethod codeBase="C:/Users/root-wm7/Desktop/DishSorter/DishSorter.Application.Tests/bin/Debug/DishSorter.Application.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DishSorter.Application.Tests.MenuTests, DishSorter.Application.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetItem_WithMorningAndInvalidTypeOrderId_ShouldReturnNull" />
+    </UnitTest>
+    <UnitTest name="GetItem_WithNightAndValidTypeOrderId_ShouldReturnTheItem" storage="dishsorter.application.tests.dll" id="f1d295ab-b6d1-bbd6-1f9e-67ec2536ab94">
+      <Execution id="23e0ed2a-3001-4342-8874-7f29a84c3fdb" />
+      <TestMethod codeBase="C:/Users/root-wm7/Desktop/DishSorter/DishSorter.Application.Tests/bin/Debug/DishSorter.Application.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DishSorter.Application.Tests.MenuTests, DishSorter.Application.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetItem_WithNightAndValidTypeOrderId_ShouldReturnTheItem" />
+    </UnitTest>
+    <UnitTest name="SortDishes_WithMorningAndValidSelection_ShouldReturnFoodItems" storage="dishsorter.application.tests.dll" id="592f7436-5b2b-d53c-0de6-f116bf00a36b">
+      <Execution id="a313637d-7efe-4102-b482-9ba6303380ce" />
+      <TestMethod codeBase="C:/Users/root-wm7/Desktop/DishSorter/DishSorter.Application.Tests/bin/Debug/DishSorter.Application.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DishSorter.Application.Tests.DishSorterTests, DishSorter.Application.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SortDishes_WithMorningAndValidSelection_ShouldReturnFoodItems" />
+    </UnitTest>
+    <UnitTest name="GetItem_WithUnknownTimeOfDayAndAnyTypeOrderId_ShouldReturnNull" storage="dishsorter.application.tests.dll" id="e0c6aaa5-173f-28b7-12ec-b321958dafb0">
+      <Execution id="400be0d8-b24d-4088-9a86-4f809e051645" />
+      <TestMethod codeBase="C:/Users/root-wm7/Desktop/DishSorter/DishSorter.Application.Tests/bin/Debug/DishSorter.Application.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DishSorter.Application.Tests.MenuTests, DishSorter.Application.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetItem_WithUnknownTimeOfDayAndAnyTypeOrderId_ShouldReturnNull" />
+    </UnitTest>
+    <UnitTest name="GetItem_WithNightAndInvalidTypeOrderId_ShouldReturnNull" storage="dishsorter.application.tests.dll" id="f2ef74d9-1f44-e144-3ed1-d17cb24d3709">
+      <Execution id="4b5094e1-9a17-4e84-a9ea-3683ebcf8696" />
+      <TestMethod codeBase="C:/Users/root-wm7/Desktop/DishSorter/DishSorter.Application.Tests/bin/Debug/DishSorter.Application.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DishSorter.Application.Tests.MenuTests, DishSorter.Application.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetItem_WithNightAndInvalidTypeOrderId_ShouldReturnNull" />
+    </UnitTest>
+    <UnitTest name="SortDishes_WithNightAndSomeInvalidSelection_ShouldReturnErrorForInvalidSelectionOtherwiseFoodItems" storage="dishsorter.application.tests.dll" id="8214357d-b42c-846e-9251-c8fcbe8d61ee">
+      <Execution id="14de33c6-999d-4aec-947d-ef498e588b56" />
+      <TestMethod codeBase="C:/Users/root-wm7/Desktop/DishSorter/DishSorter.Application.Tests/bin/Debug/DishSorter.Application.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DishSorter.Application.Tests.DishSorterTests, DishSorter.Application.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SortDishes_WithNightAndSomeInvalidSelection_ShouldReturnErrorForInvalidSelectionOtherwiseFoodItems" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ed96d5f6-7607-6e9d-004c-ec8afdf3feba" executionId="69f407bd-13a9-4de9-8746-915b8abe3442" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="592f7436-5b2b-d53c-0de6-f116bf00a36b" executionId="a313637d-7efe-4102-b482-9ba6303380ce" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8214357d-b42c-846e-9251-c8fcbe8d61ee" executionId="14de33c6-999d-4aec-947d-ef498e588b56" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="57122d33-f925-f689-35b9-921d974cb2c6" executionId="9b04d3de-7a0b-47db-8573-a28f92e3991b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f78e327c-bb50-fc39-f9f3-21d13d9c59bb" executionId="081c8476-e51d-4075-ad1b-e91f7c1f0c2a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="01efa204-5458-1eab-8da8-e230f713b71c" executionId="30e46236-1b4b-406a-af9d-d6bda46d2590" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f2ef74d9-1f44-e144-3ed1-d17cb24d3709" executionId="4b5094e1-9a17-4e84-a9ea-3683ebcf8696" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f1d295ab-b6d1-bbd6-1f9e-67ec2536ab94" executionId="23e0ed2a-3001-4342-8874-7f29a84c3fdb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e0c6aaa5-173f-28b7-12ec-b321958dafb0" executionId="400be0d8-b24d-4088-9a86-4f809e051645" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="69f407bd-13a9-4de9-8746-915b8abe3442" testId="ed96d5f6-7607-6e9d-004c-ec8afdf3feba" testName="SortDishes_WithMorningAndSomeInvalidSelection_ShouldReturnErrorForInvalidSelectionOtherwiseFoodItems" computerName="WIN-JSR7U11UCRP" duration="00:00:00.0924748" startTime="2014-08-18T00:41:07.0006657-07:00" endTime="2014-08-18T00:41:07.3956883-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="69f407bd-13a9-4de9-8746-915b8abe3442">
+    </UnitTestResult>
+    <UnitTestResult executionId="a313637d-7efe-4102-b482-9ba6303380ce" testId="592f7436-5b2b-d53c-0de6-f116bf00a36b" testName="SortDishes_WithMorningAndValidSelection_ShouldReturnFoodItems" computerName="WIN-JSR7U11UCRP" duration="00:00:00.0020011" startTime="2014-08-18T00:41:07.3966884-07:00" endTime="2014-08-18T00:41:07.4016887-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a313637d-7efe-4102-b482-9ba6303380ce">
+    </UnitTestResult>
+    <UnitTestResult executionId="14de33c6-999d-4aec-947d-ef498e588b56" testId="8214357d-b42c-846e-9251-c8fcbe8d61ee" testName="SortDishes_WithNightAndSomeInvalidSelection_ShouldReturnErrorForInvalidSelectionOtherwiseFoodItems" computerName="WIN-JSR7U11UCRP" duration="00:00:00.0012546" startTime="2014-08-18T00:41:07.4036888-07:00" endTime="2014-08-18T00:41:07.4066889-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="14de33c6-999d-4aec-947d-ef498e588b56">
+    </UnitTestResult>
+    <UnitTestResult executionId="9b04d3de-7a0b-47db-8573-a28f92e3991b" testId="57122d33-f925-f689-35b9-921d974cb2c6" testName="SortDishes_WithNightAndValidSelection_ShouldReturnFoodItems" computerName="WIN-JSR7U11UCRP" duration="00:00:00.0012011" startTime="2014-08-18T00:41:07.4076890-07:00" endTime="2014-08-18T00:41:07.4116892-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9b04d3de-7a0b-47db-8573-a28f92e3991b">
+    </UnitTestResult>
+    <UnitTestResult executionId="081c8476-e51d-4075-ad1b-e91f7c1f0c2a" testId="f78e327c-bb50-fc39-f9f3-21d13d9c59bb" testName="GetItem_WithMorningAndInvalidTypeOrderId_ShouldReturnNull" computerName="WIN-JSR7U11UCRP" duration="00:00:00.0010690" startTime="2014-08-18T00:41:07.4126893-07:00" endTime="2014-08-18T00:41:07.4156895-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="081c8476-e51d-4075-ad1b-e91f7c1f0c2a">
+    </UnitTestResult>
+    <UnitTestResult executionId="30e46236-1b4b-406a-af9d-d6bda46d2590" testId="01efa204-5458-1eab-8da8-e230f713b71c" testName="GetItem_WithMorningAndValidTypeOrderId_ShouldReturnTheItem" computerName="WIN-JSR7U11UCRP" duration="00:00:00.0020449" startTime="2014-08-18T00:41:07.4176896-07:00" endTime="2014-08-18T00:41:07.4226899-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="30e46236-1b4b-406a-af9d-d6bda46d2590">
+    </UnitTestResult>
+    <UnitTestResult executionId="4b5094e1-9a17-4e84-a9ea-3683ebcf8696" testId="f2ef74d9-1f44-e144-3ed1-d17cb24d3709" testName="GetItem_WithNightAndInvalidTypeOrderId_ShouldReturnNull" computerName="WIN-JSR7U11UCRP" duration="00:00:00.0019123" startTime="2014-08-18T00:41:07.4246900-07:00" endTime="2014-08-18T00:41:07.4286902-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4b5094e1-9a17-4e84-a9ea-3683ebcf8696">
+    </UnitTestResult>
+    <UnitTestResult executionId="23e0ed2a-3001-4342-8874-7f29a84c3fdb" testId="f1d295ab-b6d1-bbd6-1f9e-67ec2536ab94" testName="GetItem_WithNightAndValidTypeOrderId_ShouldReturnTheItem" computerName="WIN-JSR7U11UCRP" duration="00:00:00.0011446" startTime="2014-08-18T00:41:07.4356906-07:00" endTime="2014-08-18T00:41:07.4386908-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="23e0ed2a-3001-4342-8874-7f29a84c3fdb">
+    </UnitTestResult>
+    <UnitTestResult executionId="400be0d8-b24d-4088-9a86-4f809e051645" testId="e0c6aaa5-173f-28b7-12ec-b321958dafb0" testName="GetItem_WithUnknownTimeOfDayAndAnyTypeOrderId_ShouldReturnNull" computerName="WIN-JSR7U11UCRP" duration="00:00:00.0019457" startTime="2014-08-18T00:41:07.4406909-07:00" endTime="2014-08-18T00:41:07.4446911-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="400be0d8-b24d-4088-9a86-4f809e051645">
+    </UnitTestResult>
+  </Results>
+</TestRun>

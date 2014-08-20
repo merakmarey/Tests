@@ -1,0 +1,4 @@
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter.Application\bin\Debug\DishSorter.Application.dll
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter.Application\bin\Debug\DishSorter.Application.pdb
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter.Application\obj\Debug\DishSorter.Application.dll
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter.Application\obj\Debug\DishSorter.Application.pdb

@@ -1,0 +1,7 @@
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter.Infrastructure.Data\bin\Debug\DishSorter.Infrastructure.Data.dll
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter.Infrastructure.Data\bin\Debug\DishSorter.Infrastructure.Data.pdb
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter.Infrastructure.Data\obj\Debug\DishSorter.Infrastructure.Data.csprojResolveAssemblyReference.cache
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter.Infrastructure.Data\obj\Debug\DishSorter.Infrastructure.Data.dll
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter.Infrastructure.Data\obj\Debug\DishSorter.Infrastructure.Data.pdb
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter.Infrastructure.Data\bin\Debug\DishSorter.Application.dll
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter.Infrastructure.Data\bin\Debug\DishSorter.Application.pdb

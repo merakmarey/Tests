@@ -1,0 +1,18 @@
+c:\users\root-wm7\documents\visual studio 2013\Projects\DishSorter\DishSorter\bin\Debug\DishSorter.exe.config
+c:\users\root-wm7\documents\visual studio 2013\Projects\DishSorter\DishSorter\obj\Debug\DishSorter.csprojResolveAssemblyReference.cache
+c:\users\root-wm7\documents\visual studio 2013\Projects\DishSorter\DishSorter\bin\Debug\DishSorter.exe
+c:\users\root-wm7\documents\visual studio 2013\Projects\DishSorter\DishSorter\bin\Debug\DishSorter.pdb
+c:\users\root-wm7\documents\visual studio 2013\Projects\DishSorter\DishSorter\obj\Debug\DishSorter.exe
+c:\users\root-wm7\documents\visual studio 2013\Projects\DishSorter\DishSorter\obj\Debug\DishSorter.pdb
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter\bin\Debug\DishSorter.exe.config
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter\obj\Debug\DishSorter.exe
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter\obj\Debug\DishSorter.pdb
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter\obj\Debug\DishSorter.csprojResolveAssemblyReference.cache
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter\bin\Debug\DishSorter.exe
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter\bin\Debug\DishSorter.pdb
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter\bin\Debug\DishSorter.Application.dll
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter\bin\Debug\DishSorter.Infrastructure.Data.dll
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter\bin\Debug\Ninject.dll
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter\bin\Debug\DishSorter.Application.pdb
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter\bin\Debug\DishSorter.Infrastructure.Data.pdb
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter\bin\Debug\Ninject.xml

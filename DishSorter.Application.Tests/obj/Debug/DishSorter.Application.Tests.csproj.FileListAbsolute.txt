@@ -1,0 +1,5 @@
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter.Application.Tests\bin\Debug\DishSorter.Application.Tests.dll
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter.Application.Tests\bin\Debug\DishSorter.Application.Tests.pdb
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter.Application.Tests\obj\Debug\DishSorter.Application.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter.Application.Tests\obj\Debug\DishSorter.Application.Tests.dll
+C:\Users\ariel.dellano\Downloads\DishSorter\DishSorter.Application.Tests\obj\Debug\DishSorter.Application.Tests.pdb
